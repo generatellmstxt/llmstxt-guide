@@ -3,7 +3,7 @@
 A practical guide for engineers shipping llms.txt files in their projects.
 
 ## Read it
-👉 [Live guide on GitHub Pages](https://YOURUSERNAME.github.io/llmstxt-guide/)
+👉 [Live guide on GitHub Pages](https://generatellmstxt.github.io/llmstxt-guide/)
 
 ## What's covered
 - The llms.txt spec (briefly)
